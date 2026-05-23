@@ -1,5 +1,5 @@
 I love Hexlet!
-alpha
+NEW alpha
 beta
 gamma
 delta
